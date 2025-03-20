@@ -1,6 +1,6 @@
 ## Voting Eligibility Application 
 
-> This is a project where three developers worked on creating different features for an application that tracks the eligibility for voting of a user. Eric works on feature-a (showing a greeting message and asking for the user's name), Lucy worked on feature-b (asking the user for their age and determing eligibility), and Adam worked on feature-c (asking the user to determine the experience on a scale of 1-5 via a short survey).
+> This is a project where three developers worked on creating different features for an application that tracks the eligibility for voting of a user. Eric works on feature-a (showing a greeting message and asking for the user's name), Lucy worked on feature-b (asking the user for their age and determing eligibility), and Adam worked on feature-c (asking the user to determine the experience on a scale of 1-5 via a short survey).comm
 
 HEADER 2 Getting Started
 
